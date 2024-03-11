@@ -1,0 +1,11 @@
+{
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@carbon/react": "1.33.0",
+    "sass": "1.63.6"
+  }
+}
